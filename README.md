@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ertklkn/) or [📧Mail](mailto:ert.klkn@gmail.com)
+
 <!--
 **ertugrulkalkan/ertugrulkalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
